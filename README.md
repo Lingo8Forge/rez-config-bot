@@ -1,0 +1,1 @@
+# rez-config-bot
